@@ -1,3 +1,8 @@
 body {
   background-color: rgb(245, 216, 110);
 }
+
+.croissant-photo {
+  display: block;
+  margin: 0 auto;
+}
